@@ -24,7 +24,7 @@
    ```
 2. Перейдите в директорию проекта:
    ```bash
-   cd Files-Organizer
+   cd File-Organizer
    ```
 3. Соберите проект:
    ```bash
@@ -77,7 +77,7 @@ Continue sorting with another path? [y/n]: n
 ## Структура проекта
 
 ```
-Files-Organizer/
+File-Organizer/
 ├── FilesDistributor.csproj   # Файл проекта (.NET Core 2.2)
 ├── FilesDistributor.sln      # Решение Visual Studio
 ├── Program.cs                # Точка входа, взаимодействие с пользователем
